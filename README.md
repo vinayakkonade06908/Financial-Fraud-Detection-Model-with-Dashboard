@@ -2,20 +2,20 @@
 Financial Fraud Detection Model using Dashboard: This project is a machine learning-based fraud detection system integrated with a Streamlit dashboard. Users input transaction details such as amount, transaction type, merchant category, and transaction count. The backend, built with FastAPI, processes this data and predicts whether the transaction is fraudulent or safe using a trained machine learning model.
 
 # Features
-✅ User-friendly Dashboard – Built with Streamlit for easy interaction.
-✅ Machine Learning-powered Fraud Detection – Uses trained models to classify transactions.
-✅ FastAPI Backend – Ensures efficient processing of user input.
-✅ Real-time Predictions – Get instant fraud detection results.
+- User-friendly Dashboard – Built with Streamlit for easy interaction.
+- Machine Learning-powered Fraud Detection – Uses trained models to classify transactions.
+- FastAPI Backend – Ensures efficient processing of user input.
+- Real-time Predictions – Get instant fraud detection results.
 
 # Technologies Used :
-Python – Programming language.
-Streamlit – Frontend dashboard framework.
-FastAPI – Backend for API communication.
-Scikit-learn / TensorFlow – Machine learning model development.
-Pandas & NumPy – Data preprocessing and analysis.
-Uvicorn – ASGI server for FastAPI.
+- Python – Programming language.
+- Streamlit – Frontend dashboard framework.
+- FastAPI – Backend for API communication.
+- Scikit-learn / TensorFlow – Machine learning model development.
+- Pandas & NumPy – Data preprocessing and analysis.
+- Uvicorn – ASGI server for FastAPI.
 
-# 📦 Installation :
+#  Installation :
 1. Clone the repo:
    git clone https://github.com/your-username/fraud-detection-system.git
    cd fraud-detection-system
@@ -23,7 +23,7 @@ Uvicorn – ASGI server for FastAPI.
 3. Install dependencies:
    pip install -r requirements.txt
    
-# 🛠 Usage
+#  Usage
 1. Start the FastAPI backend:
    uvicorn backend.api:app --host 127.0.0.1 --port 8000 --reload
    
