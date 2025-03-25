@@ -17,7 +17,7 @@ Financial Fraud Detection Model using Dashboard: This project is a machine learn
 
 #  Installation :
 1. Clone the repo:
-   git clone https://github.com/your-username/fraud-detection-system.git
+   git clone [https://github.com/your-username/fraud-detection-system.git](https://github.com/vinayakkonade06908/Financial-Fraud-Detection-Model-with-Dashboard)
    cd fraud-detection-system
    
 3. Install dependencies:
